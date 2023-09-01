@@ -1,0 +1,8 @@
+pytest
+allure-pytest
+opencv-python
+pyzbar
+pdfminer.six
+pdf2image
+pydantic
+jsonschema
